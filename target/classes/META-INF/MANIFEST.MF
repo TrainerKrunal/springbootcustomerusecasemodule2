@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Krunal Trivedi
+Build-Jdk: 17.0.4
+Implementation-Title: customerusecase
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.scb.layaredarchdemo
+Implementation-URL: https://spring.io/projects/spring-boot/customeruseca
+ se
+Created-By: Maven Integration for Eclipse
+
